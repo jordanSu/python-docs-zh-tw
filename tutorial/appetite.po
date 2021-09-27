@@ -56,7 +56,6 @@ msgid "Python is just the language for you."
 msgstr "在上述的例子中，Python 正是你合適的語言。"
 
 #: ../../tutorial/appetite.rst:22
-#, fuzzy
 msgid ""
 "You could write a Unix shell script or Windows batch files for some of these "
 "tasks, but shell scripts are best at moving around files and changing text "
@@ -68,7 +67,7 @@ msgstr ""
 "也許你可以為了某些任務而寫個 Unix shell 腳本或者 Windows 批次檔來處理，但 "
 "shell 腳本最適合於搬動檔案或更動文字內容，而不適於圖形應用程式或遊戲。你可以"
 "為此寫個 C/C++/Java 程式，但僅僅是完成個草稿也需要很長的開發時間。相較而言，"
-"Python 更易於使用，並能在 Windows、Mac OSX、Unix 作業系統上執行，且能更快速地"
+"Python 更易於使用，並能在 Windows、macOS、Unix 作業系統上執行，且能更快速地"
 "幫助你完成工作。"
 
 #: ../../tutorial/appetite.rst:29

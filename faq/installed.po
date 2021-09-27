@@ -88,13 +88,12 @@ msgstr ""
 "器預設安裝Python。顯然的HP管理工具程式是透過Python語言所撰寫。"
 
 #: ../../faq/installed.rst:32
-#, fuzzy
 msgid ""
 "Many Unix-compatible operating systems, such as macOS and some Linux "
 "distributions, have Python installed by default; it's included in the base "
 "installation."
 msgstr ""
-"許多相容於Unix 系統，例如：Mac OS X 和 一些 Linux 發行版本預設安裝Python ；安"
+"許多相容於 Unix 系統，例如：maxOS 和 一些 Linux 發行版本預設安裝 Python；安"
 "裝時被包含在基本安裝功能內。"
 
 #: ../../faq/installed.rst:38

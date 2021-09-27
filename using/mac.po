@@ -22,9 +22,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../using/mac.rst:6
-#, fuzzy
 msgid "Using Python on a Mac"
-msgstr "在麥金塔系統使用Python"
+msgstr "在 Mac 系統使用Python"
 
 #: ../../using/mac.rst:0
 msgid "Author"
@@ -35,21 +34,19 @@ msgid "Bob Savage <bobsavage@mac.com>"
 msgstr "Bob Savage <bobsavage@mac.com>"
 
 #: ../../using/mac.rst:11
-#, fuzzy
 msgid ""
 "Python on a Mac running macOS is in principle very similar to Python on any "
 "other Unix platform, but there are a number of additional features such as "
 "the IDE and the Package Manager that are worth pointing out."
 msgstr ""
-"Python 執行在麥金塔系統的 Mac OS X 和執行在其他 Unix 平台上原理非常相似，\\ "
-"但有一些值得提出的是在 Mac OS X 上增加其他額外的功能例如 IDE 與 套件管理。"
+"Python 執行在 Mac 的 macOS 和執行在其他 Unix 平台上原理非常相似，\\ "
+"但值得一提的是在 macOS 上有其他額外的功能，例如 IDE 與 套件管理。"
 
 #: ../../using/mac.rst:18
 msgid "Getting and Installing MacPython"
-msgstr "取得和安裝MacPython"
+msgstr "取得和安裝 MacPython"
 
 #: ../../using/mac.rst:20
-#, fuzzy
 msgid ""
 "macOS since version 10.8 comes with Python 2.7 pre-installed by Apple.  If "
 "you wish, you are invited to install the most recent version of Python 3 "
@@ -57,7 +54,7 @@ msgid ""
 "binary\" build of Python, which runs natively on the Mac's new Intel and "
 "legacy PPC CPU's, is available there."
 msgstr ""
-"Apple 在 Mac OS X 10.8 預設安裝 Python 2.7。\\ 但你也可以到 Python website "
+"Apple 在 macOS 10.8 預設安裝 Python 2.7。\\ 但你也可以到 Python website "
 "（https://www.python.org ）更新至最新的 Python 3。\\ Python 建立在\"通用二進"
 "位\"上，\\ 使 Python 能以本地程序的形式運行在使用英特爾微處理器與 PowerPC 麥"
 "金塔電腦上。\\"
